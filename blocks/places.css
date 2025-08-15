@@ -1,0 +1,49 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  max-width: 984px;
+  margin: 0 auto;
+}
+.places__title {
+  font-family: Inter;
+  font-weight: 900;
+  font-size: 65px;
+  line-height: 1;
+  letter-spacing: 2%;
+  color: white;
+  max-width: 830px;
+}
+.places__content {
+  max-width: 830px;
+  margin: 0;
+}
+.places__intro {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 1.5;
+  letter-spacing: 0%;
+  color: white;
+  max-width: 830px;
+  margin-top: 0px;
+}
+.places__intro-author {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  letter-spacing: 0%;
+  color: white;
+  display: block;
+  text-align: right;
+  margin-right: 80px;
+}
+.places__description {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.5;
+  letter-spacing: 0%;
+  color: white;
+  max-width: 830px;
+}
