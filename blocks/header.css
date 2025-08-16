@@ -53,6 +53,7 @@
   letter-spacing: 0%;
   text-align: center;
   color: white;
+  max-width: 680px;
 }
 .header__image {
   height: auto;
