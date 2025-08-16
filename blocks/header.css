@@ -34,7 +34,7 @@
   margin-right: auto;
 }
 .header__title {
-  font-family: Inter;
+  font-family: "Inter-black" Arial, Helvetica, sans-serif;
   font-weight: 900;
   font-style: normal;
   font-size: 96px;
@@ -43,6 +43,7 @@
   text-align: center;
   color: white;
   margin: 0;
+  max-width: 720px;
 }
 .header__subtitle {
   font-family: Inter;
